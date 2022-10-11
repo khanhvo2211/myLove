@@ -1,0 +1,26 @@
+{
+  "name": "mylove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhvo2211/myLove.git"
+  },
+  "keywords": [
+    "image",
+    "node"
+  ],
+  "author": "khanhvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanhvo2211/myLove/issues"
+  },
+  "homepage": "https://github.com/khanhvo2211/myLove#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
